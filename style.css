@@ -1,0 +1,22 @@
+body{
+    margin-top: 20rem;
+    background-color: rgb(148, 74, 74);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
