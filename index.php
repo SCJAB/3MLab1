@@ -11,11 +11,13 @@
     <h1>Odd and Even Number Checker</h1>
 
     <?php
-    $number = 5; // Change this value to check for odd or even
 
+    $number = 5;
+    
     if ($number % 2 == 0) {
         echo "<h2>The number $number is even.</h2>";
-    } else {
+    } 
+    else {
         echo "<h2>The number $number is odd.</h2>";
     }
     ?>
